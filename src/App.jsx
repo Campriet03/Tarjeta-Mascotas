@@ -1,4 +1,4 @@
-import Mascotas from "./data/Mascotas.js";
+import Mascotas from './Data/Mascotas.js'
 import './App.css'
 import Tarjeta_mascota from './Components/Tarjeta_mascota'
 
